@@ -81,24 +81,32 @@
           "name": "光瑾",
           "info": "炳华之子，配偶：何氏",
           "fatherId": "10-1"
+          "birthYear": 1900,
+          "deathYear": 2024
         },
         {
           "id": "11-2",
           "name": "光瑜",
           "info": "炳华之子，无配偶，无子嗣",
           "fatherId": "10-1"
+          "birthYear": 1900,
+          "deathYear": 2003
         },
         {
           "id": "11-3",
           "name": "光旋",
           "info": "炳华之子，配偶：岑氏",
           "fatherId": "10-1"
+          "birthYear": 1900,
+          "deathYear": 2012
         },
         {
           "id": "11-4",
           "name": "光波",
           "info": "炳忠之子，配偶：陆氏",
           "fatherId": "10-2"
+          "birthYear": 1900,
+          "deathYear": 2015
         }
       ]
     },
