@@ -202,48 +202,64 @@
           "id": "13-1",
           "name": "玉表",
           "info": "抗辉之子",
+          "birthYear": 2000,
+
           "fatherId": "12-1"
         },
         {
           "id": "13-2",
           "name": "玉彰",
           "info": "抗辉之子",
+          "birthYear": 2007,
+
           "fatherId": "12-1"
         },
         {
           "id": "13-3",
           "name": "玉市",
           "info": "溉辉之子",
+          "birthYear": 2010,
+
           "fatherId": "12-2"
         },
         {
           "id": "13-4",
           "name": "国玉",
           "info": "吉辉之子",
+          "birthYear": 2009,
+
           "fatherId": "12-3"
         },
         {
           "id": "13-5",
           "name": "玉坚",
           "info": "德辉之子",
+          "birthYear": 2015,
+
           "fatherId": "12-6"
         },
         {
           "id": "13-6",
           "name": "玉辰睿",
           "info": "仟辉之子",
+          "birthYear": 2014,
+
           "fatherId": "12-8"
         },
         {
           "id": "13-7",
           "name": "玉乐",
           "info": "金辉之子",
+          "birthYear": 2010,
+
           "fatherId": "12-9"
         },
         {
           "id": "13-8",
           "name": "玉爽",
           "info": "金辉之子",
+          "birthYear": 2013,
+
           "fatherId": "12-9"
         }
       ]
