@@ -117,60 +117,80 @@
           "id": "12-1",
           "name": "抗辉",
           "info": "光瑾之子，配偶：何氏",
+          "birthYear": 1900,
+          "deathYear": ,
           "fatherId": "11-1"
         },
         {
           "id": "12-2",
           "name": "溉辉",
           "info": "光瑾之子，配偶：卓氏",
+          "birthYear": 1900,
+          "deathYear": ,
           "fatherId": "11-1"
         },
         {
           "id": "12-3",
           "name": "吉辉",
           "info": "光瑾之子，配偶：黄氏",
+          "birthYear": 1970,
+          "deathYear": 1950,
           "fatherId": "11-1"
         },
         {
           "id": "12-4",
           "name": "谱辉",
           "info": "光瑾之子",
+          "birthYear": 1970,
+          "deathYear": ,
           "fatherId": "11-1"
         },
         {
           "id": "12-5",
           "name": "朝辉",
           "info": "光瑾之子，配偶：蒋氏",
+          "birthYear": 1980,
+          "deathYear": ,
           "fatherId": "11-1"
         },
         {
           "id": "12-6",
           "name": "德辉",
           "info": "光旋之子，配偶：陈氏",
+          "birthYear": 1982,
+          "deathYear": ,
           "fatherId": "11-3"
         },
         {
           "id": "12-7",
           "name": "偏辉",
           "info": "光旋之子",
+          "birthYear": 1985,
+          "deathYear": ,
           "fatherId": "11-3"
         },
         {
           "id": "12-8",
           "name": "仟辉",
           "info": "光旋之子，配偶：覃氏",
+          "birthYear": 1990,
+          "deathYear": ,
           "fatherId": "11-3"
         },
         {
           "id": "12-9",
           "name": "金辉",
           "info": "光波之子，配偶：覃氏",
+          "birthYear": 1979,
+          "deathYear": ,
           "fatherId": "11-4"
         },
         {
           "id": "12-10",
           "name": "轼辉",
           "info": "光波之子",
+          "birthYear": 1983,
+          "deathYear": ,
           "fatherId": "11-4"
         }
       ]
