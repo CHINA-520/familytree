@@ -80,24 +80,32 @@
           "id": "11-1",
           "name": "光瑾",
           "info": "炳华之子，配偶：何氏",
+          "birthYear": 1900,
+          "deathYear": 2024,
           "fatherId": "10-1"
         },
         {
           "id": "11-2",
           "name": "光瑜",
           "info": "炳华之子，无配偶，无子嗣",
+          "birthYear": 1900,
+          "deathYear": 2002,
           "fatherId": "10-1"
         },
         {
           "id": "11-3",
           "name": "光旋",
           "info": "炳华之子，配偶：岑氏",
+          "birthYear": 1952,
+          "deathYear": 2012,
           "fatherId": "10-1"
         },
         {
           "id": "11-4",
           "name": "光波",
           "info": "炳忠之子，配偶：陆氏",
+          "birthYear": 1900,
+          "deathYear": 2007,
           "fatherId": "10-2"
         }
       ]
@@ -117,54 +125,72 @@
           "id": "12-2",
           "name": "溉辉",
           "info": "光瑾之子，配偶：卓氏",
+          "birthYear": 1972,
+
           "fatherId": "11-1"
         },
         {
           "id": "12-3",
           "name": "吉辉",
           "info": "光瑾之子，配偶：黄氏",
+          "birthYear": 1975,
+
           "fatherId": "11-1"
         },
         {
           "id": "12-4",
           "name": "谱辉",
           "info": "光瑾之子",
+          "birthYear": 1979,
+
           "fatherId": "11-1"
         },
         {
           "id": "12-5",
           "name": "朝辉",
           "info": "光瑾之子，配偶：蒋氏",
+          "birthYear": 1981,
+
           "fatherId": "11-1"
         },
         {
           "id": "12-6",
           "name": "德辉",
           "info": "光旋之子，配偶：陈氏",
+          "birthYear": 1982,
+
           "fatherId": "11-3"
         },
         {
           "id": "12-7",
           "name": "偏辉",
           "info": "光旋之子",
+          "birthYear": 1986,
+
           "fatherId": "11-3"
         },
         {
           "id": "12-8",
           "name": "仟辉",
           "info": "光旋之子，配偶：覃氏",
+          "birthYear": 1990,
+
           "fatherId": "11-3"
         },
         {
           "id": "12-9",
           "name": "金辉",
           "info": "光波之子，配偶：覃氏",
+          "birthYear": 1980,
+
           "fatherId": "11-4"
         },
         {
           "id": "12-10",
           "name": "轼辉",
           "info": "光波之子",
+          "birthYear": 1983,
+
           "fatherId": "11-4"
         }
       ]
